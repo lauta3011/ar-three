@@ -1,0 +1,23 @@
+{
+  "name": "ar-three",
+  "version": "1.0.0",
+  "description": "augmente reality with ar and three js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauta3011/ar-three.git"
+  },
+  "keywords": [
+    "ar",
+    "three"
+  ],
+  "author": "lauta3011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauta3011/ar-three/issues"
+  },
+  "homepage": "https://github.com/lauta3011/ar-three#readme"
+}
